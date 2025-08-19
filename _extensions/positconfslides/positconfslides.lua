@@ -84,7 +84,7 @@ for i, v in ipairs({
       columns = { header_column_narrow_dark, content_column_wide },
     },
     { image = "30-70-white",
-      widths = { "35%", "65%" },
+      widths = { "40%", "60%" },
       columns = { header_column_narrow_dark, content_column_wide },
     },
     { image = "brackets-dark",
