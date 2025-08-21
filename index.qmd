@@ -23,11 +23,9 @@ format:
 ## **Código de conducta** {.30-70-light}
 
 ::: incremental
--   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos al equipo organizador identificado en el zoom o por slack.
+-   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea. Conoce el [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc)
 
--   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea.
-
--   🤝 Conoce el [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc)
+-   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, contactate con el equipo coordinador o escribí un mail a renbaires@gmail.com
 :::
 
 ## Comunidad R {.30-70-white}
@@ -86,5 +84,3 @@ Licenciado en Estadística por la Universidad Nacional de Rosario (UNR), especia
 ::: largest
 Gracias!
 :::
-
-### Empezamos
