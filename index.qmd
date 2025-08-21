@@ -2,6 +2,7 @@
 title: "Funciones en R base"
 subtitle: "Con paciencia y mucho coraje"
 author: "Emanuel Ciardullo"
+footer: "Realizado con Quarto por [Ariana Bardauil](https://github.com/ariibard)"
 title-slide-attributes: 
   data-background-image:  _extensions/positconfslides/assets/backgrounds/toc-people-light.svg
   data-background-size: contain
